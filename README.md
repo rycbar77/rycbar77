@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **V8 Exploit**
 
-- 👨‍💻 Active in CTF@[Project SEKAI](https://sekai.team/), interest in RE&PWN.
+- 👨‍💻 Active in CTF@[**Project SEKAI**](https://sekai.team/), interest in **RE & PWN**
 
 - 📝 Write articles on [https://rycbar77.github.io/](https://rycbar77.github.io/)
 

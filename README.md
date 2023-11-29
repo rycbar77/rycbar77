@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm rycbar</h1>
-<h3 align="center">A Nood Vuln Researcher and CTF Player</h3>
+<h3 align="center">A Noob Vuln Researcher and CTF Player</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rycbar77&label=Profile%20views&color=0e75b6&style=flat" alt="rycbar77" /> </p>
 

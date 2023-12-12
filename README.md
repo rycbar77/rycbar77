@@ -13,6 +13,6 @@
 
 - 📫 Reach me at **rycbar17th@gmail.com**
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rycbar77&show_icons=true&locale=en&layout=compact" alt="rycbar77" /></p>
+<!--<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rycbar77&show_icons=true&locale=en&layout=compact" alt="rycbar77" /></p>-->
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rycbar77&show_icons=true&locale=en" alt="rycbar77" /></p>-->

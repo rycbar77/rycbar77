@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm rycbar</h1>
-<h3 align="center">A Noob Vuln Researcher and CTF Player</h3>
+<h3 align="center">Master's Student at Wuhan University / Vuln Research Beginner / CTF Player</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rycbar77&label=Profile%20views&color=0e75b6&style=flat" alt="rycbar77" /> </p>
 
 - 🔭 I’m currently working on **Vuln Research and Fuzzing**
 
-- 🌱 I’m currently learning **V8 Exploit**
+- 🌱 I’m currently learning **V8** and **IOT**
 
-- 👨‍💻 Active in CTF@[**Project SEKAI**](https://sekai.team/) @Dawn @[Friendly Maltese Citizens](https://ctf.mt/), interest in **RE & PWN**
+- 👨‍💻 Active in CTF@[**Project SEKAI**](https://sekai.team/) @WHU-Dawn @[Friendly Maltese Citizens](https://ctf.mt/), interest in **RE & PWN**
 
 - 📝 Write articles on [https://rycbar77.github.io/](https://rycbar77.github.io/)
 
 - 📫 Reach me at **rycbar17th@gmail.com**
+
+- 🔍 I am currently seeking job opportunities
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->

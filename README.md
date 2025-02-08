@@ -13,8 +13,6 @@
 
 - 📫 Reach me at **rycbar17th@gmail.com**
 
-- 🔍 I am currently seeking job opportunities
-
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [LACTF 2024 Writeups](https://rycbar77.github.io/2024/02/19/lactf-wp/)
